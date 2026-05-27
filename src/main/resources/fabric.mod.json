@@ -3,15 +3,15 @@
 	"id": "tangerines",
 	"version": "${version}",
 	"name": "Tangerines?",
-	"description": "Tangerines? is about you guessed it Tangerines or if your from germany its more about Mandarinen hope you like it"
+	"description": "Tangerines? is about you guessed it Tangerines or if your from germany its more about Mandarinen hope you like it",
 	"authors": [
 		"Mete74_ay"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/user/Mete74_ay",
+		"sources": "https://github.com/Mete74-132/tangerines/tree/6e0bd9716db5f5c32557d324ba4c5e42b6cfc09f"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache License 2.0",
 	"icon": "assets/tangerines/icon.png",
 	"environment": "*",
 	"entrypoints": {
