@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tangerine:item/cut_tangerine"
+    "layer0": "tangerines:item/cut_tangerine.png"
   }
 }
