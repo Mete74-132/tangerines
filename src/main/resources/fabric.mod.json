@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "tangerines",
+	"version": "${version}",
+	"name": "Tangerines?",
+	"description": "Tangerines? is about you guessed it Tangerines or if your from germany its more about Mandarinen hope you like it"
+	"authors": [
+		"Mete74_ay"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/tangerines/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.mete74_ay.tangerines.Tangerines"
+		],
+		"fabric-datagen": [
+			"de.mete74_ay.tangerines.TangerinesDataGenerator"
+		]
+	},
+	"mixins": [
+		"tangerines.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
