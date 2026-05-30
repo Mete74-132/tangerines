@@ -1,6 +1,10 @@
 {
   "item.tangerines.tangerine": "Tangerine",
-  "item.tangerines.cut_tangerine": "Cut Tangerine"
+  "item.tangerines.cut_tangerine": "Cut Tangerine",
 
+  "block.tangerines.tange_log": "Tange Log",
+  "block.tangerines.tange_planks": "Tange Planks",
 
+  "creativemodetab.tangerines.tangerines_items": "Tangerines",
+  "creativemodetab.tangerines.tangerines_block": "Tangerines Blocks"
 }
